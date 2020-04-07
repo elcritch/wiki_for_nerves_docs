@@ -9,7 +9,7 @@ You can use a USB-to-serial converter, aka and FTDI, like this one from Adafruit
 
 However, this can cause weird issues with your computer if your device's power and your computer power have different grounds. They can form [ground loops](https://duet3d.dozuki.com/Wiki/USB_ground_loops). 
 
-My preference therefore is to use another SBC system with a standard debian image as an intermediate and connect to that via wifi/ethernet. This helps prevents damage to your main computer. 
+My preference therefore is to use another SBC system with a standard debian image as an intermediate and connect to that via wifi/ethernet (not over it's USB cable). This helps prevents damage to your main computer. This is similar to a using a RPi to connect to an Arduino like [Rpi<->Arduino](https://circuitdigest.com/microcontroller-projects/arduino-raspberry-pi-interfacing) but can also be used to connect RPi0w<->Rpi similar. 
 
 
 ## Debugging UART Ports

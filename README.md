@@ -4,4 +4,12 @@ Docs for various Nerves related topics (unofficialy). This repo contains notes o
 
 There are lots of little gotcha's when dealing with IoT style hardware. 
 
+# Topics
+
+## Hardware
+
+### UART's
+
+[UART FAQ's](uart_faqs.md)
+
 

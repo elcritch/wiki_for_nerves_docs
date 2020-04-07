@@ -8,8 +8,6 @@ There are lots of little gotcha's when dealing with IoT style hardware.
 
 ## Hardware
 
-### UART's
-
 [UART FAQ's](uart_faqs.md)
 
 

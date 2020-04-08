@@ -6,6 +6,10 @@ There are lots of little gotcha's when dealing with IoT style hardware.
 
 # Topics
 
+## Nerves Systems
+
+[Custom System Guide](custom_system_guide.md)
+
 ## Hardware
 
 [UART FAQ's](uart_faqs.md)

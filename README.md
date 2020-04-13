@@ -14,4 +14,4 @@ There are lots of little gotcha's when dealing with IoT style hardware.
 
 [UART FAQ's](uart_faqs.md)
 
-
+[Debugging Nerves System's using regular shell](nerves_unix_sh.md)

@@ -12,7 +12,9 @@
         firmware file where you can checkout file sizes of dir and files 
         in it. 
 
-    erauer>  1 day ago
+    erauer>
         For custom systems, it is possible to see the relative size of 
-        packages as well, [Buildroot - Graph Size](https://buildroot.org/downloads/manual/manual.html#graph-size).
+        packages as well in Buildroot, https://buildroot.org/downloads/manual/manual.html#graph-size.
 
+
+[Buildroot Manual - Graph Size](https://buildroot.org/downloads/manual/manual.html#graph-size)

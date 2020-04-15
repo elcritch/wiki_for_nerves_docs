@@ -14,5 +14,5 @@
 
     erauer>  1 day ago
         For custom systems, it is possible to see the relative size of 
-        packages as well, https://buildroot.org/downloads/manual/manual.html#graph-size .
+        packages as well, [Buildroot - Graph Size](https://buildroot.org/downloads/manual/manual.html#graph-size).
 

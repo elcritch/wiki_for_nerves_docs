@@ -8,10 +8,9 @@
         builds? Mine is 70 megabytes.. I'm curious what's taking up the space.
 
     jonjon>
-        On your host, do mix firmware.unpack and it will unpack your 
+        On your host, do `mix firmware.unpack` and it will unpack your 
         firmware file where you can checkout file sizes of dir and files 
-        in it (edited) 
-
+        in it. 
 
     erauer>  1 day ago
         For custom systems, it is possible to see the relative size of 

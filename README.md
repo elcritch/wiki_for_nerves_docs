@@ -8,7 +8,7 @@ There are lots of little gotcha's when dealing with IoT style hardware.
 
 ## Nerves Systems
 
-[Custom System Guide](custom_system_guide.md)
+[Custom System Tips](custom_system_tips.md)
 
 ## Hardware
 
